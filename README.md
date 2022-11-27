@@ -1,5 +1,6 @@
 <h1 align="center"> Magisk Module </h1>
 <h3 align="center"> List of Module for Magisk </h3>
+<img src="Image.png" />
 <p align="center"> Tip : Search by Pressing Ctrl + F or press on the three dots and press Search on the Page </p>
 
 #
