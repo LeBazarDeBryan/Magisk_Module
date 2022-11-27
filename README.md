@@ -16,7 +16,7 @@
 
 [Call Recorder - SKVALEX](https://github.com/Magisk-Modules-Repo/callrecorder-skvalex/releases/latest)
 
-[Google Dialer Framework](https://github.com/Magisk-Modules-Repo/GoogleDialerFramework/releases/latest]
+[Google Dialer Framework](https://github.com/Magisk-Modules-Repo/GoogleDialerFramework/releases/latest)
 
 [HideNavBar](https://github.com/Magisk-Modules-Repo/HideNavBar/releases/latest)
 
