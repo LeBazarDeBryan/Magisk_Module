@@ -14,6 +14,8 @@
 
 [iOS Emoji](https://github.com/Keinta15/Magisk-iOS-Emoji/releases/latest)
 
+[Magisk Bootloop Protector](https://github.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/releases/latest)
+
 [ViPER4Android FX](https://zackptg5.com/downloads/v4afx_v2.7.2.1.zip)
 
 <h2 align="left"> License </h2>
