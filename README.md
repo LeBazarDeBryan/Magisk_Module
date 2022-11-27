@@ -32,7 +32,7 @@
 
 [ViPER4Android FX Repackagedhoch25](https://github.com/programminghoch10/ViPER4AndroidRepackaged/releases/latest)
 
-[Wi-Fi Bonding (Archived)](https://github.com/Magisk-Modules-Repo/wifi-bonding/releases/download/16/wifi_bonding.zip)
+[Wi-Fi Bonding](https://github.com/Magisk-Modules-Repo/wifi-bonding/releases/download/16/wifi_bonding.zip) [(Archived)](https://github.com/Magisk-Modules-Repo/wifi-bonding)
 
 <h2 align="left">License</h2>
 
