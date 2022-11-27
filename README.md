@@ -1,14 +1,14 @@
-<h1 align="center"> Magisk Module </h1>
-<h3 align="center"> List of Module for Magisk </h3>
+<h1 align="center">Magisk Module</h1>
+<h3 align="center">List of Module for Magisk</h3>
 
 #
 
 <a href="https://raw.githubusercontent.com/N0ub4x/Magisk_Module/main/Image.png"><img src="Image.png" /></a>
-<p align="center"> Tip : Search by Pressing Ctrl + F or press on the three dots and press Search on the Page </p>
+<p align="center">Tip : Search by Pressing Ctrl + F or press on the three dots and press Search on the Page</p>
 
 #
 
-<h2 align="left"> List of Module </h2>
+<h2 align="left">List of Module</h2>
 
 [Audio Modification Library](https://zackptg5.com/downloads/Audio-Modification-Library_v4.1.zip)
 
@@ -20,7 +20,7 @@
 
 [ViPER4Android FX Repackagedhoch25](https://github.com/programminghoch10/ViPER4AndroidRepackaged/releases/latest)
 
-<h2 align="left"> License </h2>
+<h2 align="left">License</h2>
 
     MIT License
 
