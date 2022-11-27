@@ -10,15 +10,29 @@
 
 <h2 align="left">List of Module</h2>
 
+[1Controller](https://github.com/Magisk-Modules-Repo/OneController#1controller)
+
 [Audio Modification Library](https://zackptg5.com/downloads/Audio-Modification-Library_v4.1.zip)
+
+[Call Recorder - SKVALEX](https://github.com/Magisk-Modules-Repo/callrecorder-skvalex/releases/latest)
+
+[HideNavBar](https://github.com/Magisk-Modules-Repo/HideNavBar/releases/latest)
 
 [iOS Emoji](https://github.com/Keinta15/Magisk-iOS-Emoji/releases/latest)
 
 [Magisk Bootloop Protector](https://github.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/releases/latest)
 
+[MagiskHide Props Config](https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/releases/latest)
+
+[NFC Screen Off](https://github.com/Magisk-Modules-Repo/NfcScreenOff/releases/latest)
+
+[Terminal Modifications](https://github.com/skittles9823/terminalmods/releases/latest)
+
 [ViPER4Android FX](https://zackptg5.com/downloads/v4afx_v2.7.2.1.zip)
 
 [ViPER4Android FX Repackagedhoch25](https://github.com/programminghoch10/ViPER4AndroidRepackaged/releases/latest)
+
+[Wi-Fi Bonding (Archived)](https://github.com/Magisk-Modules-Repo/wifi-bonding/releases/download/16/wifi_bonding.zip]
 
 <h2 align="left">License</h2>
 
