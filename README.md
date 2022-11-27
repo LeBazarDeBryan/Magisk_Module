@@ -1,9 +1,18 @@
 <h1 align="center"> Magisk Module </h1>
 <h3 align="center"> List of Module for Magisk </h3>
+<p align="center"> Tip : Search by Pressing Ctrl + F or press on the three dots and press Search on the Page </p>
 
-<h2 align="center">  </h2>
+#
 
-<h2 align="center"> License </h2>
+<h2 align="left"> List of Module </h2>
+
+[Audio Modification Library](https://zackptg5.com/downloads/Audio-Modification-Library_v4.1.zip)
+
+[iOS Emoji](https://github.com/Keinta15/Magisk-iOS-Emoji/releases/latest)
+
+[ViPER4Android FX](https://zackptg5.com/downloads/v4afx_v2.7.2.1.zip)
+
+<h2 align="left"> License </h2>
 
     MIT License
 
