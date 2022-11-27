@@ -16,11 +16,17 @@
 
 [Call Recorder - SKVALEX](https://github.com/Magisk-Modules-Repo/callrecorder-skvalex/releases/latest)
 
+[Google Dialer Framework](https://github.com/Magisk-Modules-Repo/GoogleDialerFramework/releases/latest]
+
 [HideNavBar](https://github.com/Magisk-Modules-Repo/HideNavBar/releases/latest)
 
 [iOS Emoji](https://github.com/Keinta15/Magisk-iOS-Emoji/releases/latest)
 
+[JamesDSP](https://zackptg5.com/downloads/jdsp_v4.6.zip) [Unity](https://zackptg5.com/downloads/archive/jdsp-Unity_v2.4.zip)
+
 [Magisk Bootloop Protector](https://github.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/releases/latest)
+
+[Magisk Frida](https://github.com/ViRb3/magisk-frida/releases/latest)
 
 [MagiskHide Props Config](https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/releases/latest)
 
