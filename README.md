@@ -34,9 +34,7 @@
 
 [Terminal Modifications](https://github.com/skittles9823/terminalmods/releases/latest)
 
-[ViPER4Android FX](https://zackptg5.com/downloads/v4afx_v2.7.2.1.zip)
-
-[ViPER4Android FX Repackagedhoch25](https://github.com/programminghoch10/ViPER4AndroidRepackaged/releases/latest)
+[ViPER4Android FX](https://zackptg5.com/downloads/v4afx_v2.7.2.1.zip) [Repackagedhoch25](https://github.com/programminghoch10/ViPER4AndroidRepackaged/releases/latest)
 
 [Wi-Fi Bonding](https://github.com/Magisk-Modules-Repo/wifi-bonding/releases/download/16/wifi_bonding.zip) [(Archived)](https://github.com/Magisk-Modules-Repo/wifi-bonding)
 
