@@ -18,6 +18,8 @@
 
 [ViPER4Android FX](https://zackptg5.com/downloads/v4afx_v2.7.2.1.zip)
 
+[ViPER4Android FX Repackagedhoch25](https://github.com/programminghoch10/ViPER4AndroidRepackaged/releases/latest)
+
 <h2 align="left"> License </h2>
 
     MIT License
