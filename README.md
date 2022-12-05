@@ -3,7 +3,7 @@
 
 #
 
-<a href="https://raw.githubusercontent.com/N0ub4x/Magisk_Module/main/Image.png"><img src="Image.png" /></a>
+<a href="https://raw.githubusercontent.com/LeBazarDeBryan/Magisk_Module/main/Image.png"><img src="Image.png" /></a>
 <p align="center">Tip : Search by Pressing Ctrl + F or press on the three dots and press Search on the Page</p>
 
 #
